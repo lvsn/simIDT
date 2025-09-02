@@ -1,3 +1,7 @@
+# simIDT : Simultaneous Identification and 6DoF Tracking
+
+Simultaneous identification and 6DoF tracking of objects within any arbitrary database, as presented in Charles Renaud's thesis (under review).
+
 ## Getting Started (SAM-6D)
 
 This is a fork of http://github.com/JiehongLin/SAM-6D/tree/main. Here is their getting started section. This section explains how to perform pose estimation with SAM-6D
